@@ -2,7 +2,7 @@
 
 This repository contains codes and sample data used in the paper:
 
-> Wahyu Eko Junian, et al. "Title of Your Paper", *Journal Name*, 2025.
+> Wahyu Eko Junian, et al. "A Novel Method for One-Dimensional Inversion Modeling Magnetotelluric Using One-to-One-Based Optimizer (OOBO) Algorithm", *Rudarsko-geološko-naftni zbornik*, 2025.
 
 ## Contents
 - `code/`: Python scripts for 1D MT forward modeling and inversion

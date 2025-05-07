@@ -6,11 +6,12 @@ This repository contains codes and sample data used in the paper:
 
 ## Contents
 ```bash
-/MT-Inversion-Plotting
+/OOBO-InvMT1D
 │
 ├── MT1D.m                # Forward modeling function for 1D MT response
-├── PlotMTinv_syn.m       # Main plotting function (this repo's focus)
-├── example_run.m         # Example script to run the plotting
-├── synthetic_data.mat    # Sample synthetic data (if available)
+├── PlotMTinv_syn.m       # function for plotting (for synthetic data)
+├── misfit.m              # function to calculate data misfit
+├── main_OOBO_MT.m        # Main Program
+├── synthetic_data.mat    # Sample synthetic data
 └── README.md             # This guide
 

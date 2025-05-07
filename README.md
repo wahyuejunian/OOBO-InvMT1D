@@ -1,4 +1,4 @@
-# Resistivity Inversion using MT1D
+# 1D Inversion Modeling MT using OOBO Algorithm
 
 This repository contains codes and sample data used in the paper:
 
